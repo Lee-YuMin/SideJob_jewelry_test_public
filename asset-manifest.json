@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SideJob_jewelry_test_public/static/css/main.42f67611.chunk.css",
-    "main.js": "/SideJob_jewelry_test_public/static/js/main.f23d1785.chunk.js",
-    "main.js.map": "/SideJob_jewelry_test_public/static/js/main.f23d1785.chunk.js.map",
+    "main.js": "/SideJob_jewelry_test_public/static/js/main.b2931dfd.chunk.js",
+    "main.js.map": "/SideJob_jewelry_test_public/static/js/main.b2931dfd.chunk.js.map",
     "runtime-main.js": "/SideJob_jewelry_test_public/static/js/runtime-main.644ae19d.js",
     "runtime-main.js.map": "/SideJob_jewelry_test_public/static/js/runtime-main.644ae19d.js.map",
     "static/js/2.8c1b85f8.chunk.js": "/SideJob_jewelry_test_public/static/js/2.8c1b85f8.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.644ae19d.js",
     "static/js/2.8c1b85f8.chunk.js",
     "static/css/main.42f67611.chunk.css",
-    "static/js/main.f23d1785.chunk.js"
+    "static/js/main.b2931dfd.chunk.js"
   ]
 }
